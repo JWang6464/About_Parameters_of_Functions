@@ -1,6 +1,6 @@
 # Functions and Recursion Assignment
 
-This project is a hands-on Python script that explores how functions work — including
+This project is a hands-on Python script that explores how functions work including
 parameters, default values, variable-length arguments, and recursion. It was created as part of
 my **Cognizant externship** to strengthen foundational coding skills and demonstrate clean,
 modular Python programming.
